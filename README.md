@@ -4,6 +4,11 @@ A custom WordPress plugin that allows users to manage and display portfolio proj
 
 ---
 
+## Links
+
+- Live Demo: https://dev-rahulmauryaportfolio.pantheonsite.io/
+- GitHub Repository: https://github.com/rahulmaurya17/portfolio-showcase-plugin
+
 ## Features
 
 - Custom Post Type (Portfolio Projects)
